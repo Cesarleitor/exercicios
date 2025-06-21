@@ -30,7 +30,7 @@ public class DesafioIfElseIF {
 				 || "sabado".equalsIgnoreCase(dia)){
 			 System.out.println(7);
 	     }else {
-			System.out.println("Dia inválido");
+			System.out.println("Dia inválido"); 
 		}
 				
 			}
