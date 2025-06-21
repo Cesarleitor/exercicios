@@ -26,7 +26,7 @@ public class If {
 			  System.out.println("Sinto muito!");
 		}
 
-		entrada.close();     
+		entrada.close();      
  
 	} 
 
