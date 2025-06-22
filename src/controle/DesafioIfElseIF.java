@@ -31,6 +31,8 @@ public class DesafioIfElseIF {
 			 System.out.println(7);
 	     }else {
 			System.out.println("Dia inválido"); 
+
+			entrada.close();
 		}
 				
 			}
